@@ -5,10 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique.mendonca/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199426903055/)
 <hr>
-
+<div align="center">
 ![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Mendonca&show_icons=true&theme=tokyonight)
 ![Caique Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-mendonca&layout=compact&theme=tokyonight)
-
+</div>
 <hr>
 
 ### Learning...
