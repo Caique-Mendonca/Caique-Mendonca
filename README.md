@@ -7,7 +7,7 @@
 <hr>
 
 ![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique-Mendonca&show_icons=true&theme=tokyonight)
-![Caique Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-mendonca&layout=tokyonight)
+![Caique Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-mendonca&layout=compact&theme=tokyonight)
 
 <hr>
 
