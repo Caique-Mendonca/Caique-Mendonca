@@ -19,6 +19,3 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
-<hr>
-
-<img src="https://raw.githubusercontent.com/caique-mendonca/caique-mendonca/output/snake.svg" alt="Snake animation" />
