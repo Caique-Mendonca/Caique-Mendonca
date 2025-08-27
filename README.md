@@ -7,7 +7,7 @@
 <hr>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caique-Mendonca&show_icons=true&theme=tokyonight" alt="Caique Mendonça stats"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Mendonca&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Mendonca&layout=compact)](https://github.com/Caique-Mendonca/github-readme-stats)
 </div>
 <hr>
 
