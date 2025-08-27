@@ -6,8 +6,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199426903055/)
 <hr>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caique-Mendonca&show_icons=true&theme=tokyonight" alt="Caique Mendonça stats"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Mendonca&layout=compact)](https://github.com/Caique-Mendonca/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caique-Mendonca&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Mendonca&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <hr>
 
