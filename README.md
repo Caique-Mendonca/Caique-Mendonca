@@ -1,4 +1,4 @@
-### Olá! eu sou Caique Mendonça
+### Hello! I am Caique Mendonça
 <hr>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caique-Mendonca)
